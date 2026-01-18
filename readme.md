@@ -57,7 +57,7 @@ Automated Python pipeline that extracts data from CSV files, validates structure
 - **Tech Stack:** Python (Pandas, SQLAlchemy) | PostgreSQL | Logging
 - **Features:** Error handling, duplicate detection, data validation, automated scheduling
 - **Use Case:** Daily ETL job loading sales transactions to data warehouse
-- **Link:** [View Repository](https://github.com/yourname/csv-to-db-etl)
+- **Link:** [View Repository](https://github.com/pakloong/csv_to_db_etl)
 
 <!---
 
