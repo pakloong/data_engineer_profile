@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Pak Loong Chan 👋
 
 Building scalable data infrastructure and ETL pipelines. Experienced in Python, SQL, and designing efficient data systems that enable analytics and insights.
 
@@ -59,7 +59,7 @@ Automated Python pipeline that extracts data from CSV files, validates structure
 - **Use Case:** Daily ETL job loading sales transactions to data warehouse
 - **Link:** [View Repository](https://github.com/yourname/csv-to-db-etl)
 
----
+<!---
 
 ### 2. **Real-Time API Data Collection Pipeline**
 Built Python pipeline that collects cryptocurrency price data from public API every hour, stores in database, and sends alerts for price anomalies.
@@ -94,7 +94,7 @@ Developed Python-based data quality monitoring tool that checks data integrity, 
 ## 📈 GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&theme=dark&show_icons=true&hide=contribs,prs)
-
+-->
 ---
 
 ## 🎓 What I'm Learning
@@ -114,12 +114,12 @@ I'm available for:
 - 🔧 **ETL Pipeline Development**
 - 💼 **Data Architecture Consulting**
 - 🤝 **Contract Work**
-
+<!---  
 **Get in Touch:**
 - **Email:** your.email@example.com
 - **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourname)
 - **Portfolio:** [Your Website](https://yourname.com)
-
+--->
 ---
 
 ## 📝 License
